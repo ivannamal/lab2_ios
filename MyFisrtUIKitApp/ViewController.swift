@@ -59,12 +59,12 @@ class ViewController: UIViewController {
     @IBOutlet weak var bookmark: UIButton!
     @IBOutlet weak var shareButton: UIButton!
     @IBOutlet weak var titleLabel: UILabel!
-    var isBookmarked: Bool = false
+    var saved: Bool = false
     
 
     @IBAction func bookmarkTapped(_ sender: UIButton) {
         sender.isSelected.toggle()
-        isBookmarked = sender.isSelected
+        saved = sender.isSelected
     }
 
     

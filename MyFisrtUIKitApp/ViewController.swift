@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  MyFisrtUIKitApp
-//
+// https://github.com/ivannamal/lab2_ios
 //  Created by Ivanna Malashchuk on 04.02.2026.
 //
 
